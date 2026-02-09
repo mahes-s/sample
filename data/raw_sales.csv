@@ -1,0 +1,4 @@
+sale_id,sale_timestamp,customer_id,product_id,quantity,unit_price,currency,source_system
+S-1001,2024-01-15T10:15:00Z,C-001,P-100,2,19.99,USD,csv
+S-1002,2024-01-15T11:20:00Z,C-002,P-200,1,99.99,USD,csv
+S-1003,2024-01-16T09:05:00Z,C-003,P-300,3,5.50,USD,csv
